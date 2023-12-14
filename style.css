@@ -1,0 +1,138 @@
+body {
+    text-align: center;
+    margin: 0px;
+    color: cyan;
+    background-color: black;
+    }
+    
+    p {
+    font-size: 18px;
+    line-height: 1.5;
+    }
+    
+    img {
+    width: 320px;
+    height: 190px;
+    margin-right: 20px;
+    border: 3px solid black;
+    border-radius: 15px;
+    padding: 4px;
+    box-shadow: 0 0 10px black;
+    }
+    
+    .header {
+    background-color: darkslategray;
+    padding: 10px;
+    color: white;
+    }
+    
+    .work {
+    background-color: black;
+    padding: 10px;
+    }
+    
+.do {
+background-color: white;
+padding: 10px;
+    }
+    
+.knowledge{
+ background-color: black;
+ padding: 10px;
+    }
+
+    .skills {
+background-color: white;
+ padding: 10px;
+}
+        
+ .abilities {
+background-color: black;
+padding: 10px;
+}
+        
+.personality{
+ background-color: white;
+padding: 10px;
+}
+
+.technology {
+background-color: black;
+padding: 10px;
+ }
+            
+.salary {
+background-color: white;
+ padding: 10px;
+            }
+            
+.education{
+background-color: black;
+padding: 10px;
+}
+
+.opinion{
+    background-color: grey;
+    padding: 10px;
+    }
+    
+    .footer {
+    background-color: darkslategray;
+    padding: 10px;
+    color: white;
+    }
+    
+    .software {
+    color: cyan;
+    }
+    
+    .solutions {
+    color: teal;
+    }
+    
+    h1 {
+    text-align: center;
+    color: lightblue;
+    }
+    
+    h3 {
+    text-align: center;
+    color: pink;
+    }
+    
+    h4 {
+    color: aquamarine;
+    text-align: center;
+    }
+    
+    ol {
+    text-align: center;
+    color:darkcyan;
+    }
+    
+    li {
+    text-align: center;
+    }    
+
+    h2 {
+        color: turquoise;
+    }
+
+    div.container {
+        text-align: center;
+      }
+      
+      ol.myUL {
+        display: inline-block;
+        text-align: left;
+      }
+
+      div .contain {
+        text-align: center;
+      }
+
+      ul.myUL {
+        display: inline-block;
+        text-align: center;
+      }
+      
